@@ -1,0 +1,5 @@
+{
+    "baseUrl": "https://www.cypress.io",
+    "chromeWebSecurity": false,
+    "integrationFolder": "specs"
+}
